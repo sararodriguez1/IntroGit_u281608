@@ -1,0 +1,2 @@
+# Micro-course: Introduction to Git & GitHub
+This micro-course is a **mandatory** component of Introduction to Programming. Its goal is to give you a practical foundation in Git and GitHub: the version control tools used by virtually every software team in the industry. By the end, you will be able to track your own code changes, collaborate with a classmate on a shared project, and resolve the conflicts that arise when two people edit the same file.
